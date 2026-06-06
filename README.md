@@ -39,6 +39,13 @@ Welcome to **Spice It Up**, a clean, user-friendly frontend web application desi
 3. **Open the project:**
    Right click on index.html and click on Run with Live Server in VS code
 
-This is the final project for CIS 300. 
-It is a Multi-page website featuring recipes, cooking tips, and a contact form. 
-It includes integreated Google Analytics for traffic tracking.
+# Project Structure
+
+COOKING-WEBSITE/
+├── 5645000-hd_1920_1080_25fps.mp4  # Cooking tips instructional video
+├── contact.html                    # Contact & feedback form page
+├── index.html                      # Homepage / landing page
+├── pexels-undo-kim-215...jpg        # Featured recipe image (Fried Rice)
+├── recipes.html                    # Recipe directory & instruction cards
+├── styles.css                      # Global custom stylesheet
+└── tips.html                       # Culinary tips & video section
