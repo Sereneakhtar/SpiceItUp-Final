@@ -41,6 +41,7 @@ Welcome to **Spice It Up**, a clean, user-friendly frontend web application desi
 
 # Project Structure
 
+```text
 COOKING-WEBSITE/
 ├── 5645000-hd_1920_1080_25fps.mp4  # Cooking tips instructional video
 ├── contact.html                    # Contact & feedback form page
