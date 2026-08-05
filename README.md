@@ -1,12 +1,24 @@
 # SpiceItUp
 Welcome to **Spice It Up**, a clean, user-friendly frontend web application designed to share simple recipes and essential cooking tips. Whether you are a beginner looking to learn kitchen basics or an experienced cook searching for quick everyday meals, this site offers something for everyone
 
+A recipe website built using HTML5 and CSS3 that helps users discover simple recipes, learning essential cooking techniques, and build confidence in the kitchen through an intuitive, beginner friendly interface. 
+
 ---
 
-# Feature and Pages
+# Overview
+Spice It Up is a front-end web development project focused on designing a nice, responsive, and easy-to-navigate cooking website. The site combines recipes, cooking tips, instructional media, and a contact page into a cohesive user experience. The goal of the project was to practice building a multi-page website while applying HTML, responsive CSS layouts, and clean web design principles. 
+
+---
+
+# Features
+A responsive multi-page website with clean and intuitive navigation. It has a featured recipe section and a recipe directory with cooking times and serving sizes. There are essential cooking tips and embedded instructional cooking video. There is a contact and feedback form on the contact page. It also uses Google Analytics Integration to see how many users are looking and where in the country its being used.  
+
+---
+
+# Pages
 * ** Home ('index.html'): ** Has an introduction, a highlight photo of a featured recipe and a quick referene photo, a directory table with cooking times and serving sizes, and a preview of essential cooking tools.
-* ** Recipes ('recipts.html'): **
-* ** Cooking Tips ('tips.html'): **
+* ** Recipes ('recipts.html'): ** A collection of easy-to-follow recipes. There is preparation time and cooking information. There is serving size details. 
+* ** Cooking Tips ('tips.html'): ** There are practical kitchen tips. An embedded video 
 * ** Contact ('contact.html'): ** 
 
 ---
@@ -50,3 +62,12 @@ COOKING-WEBSITE/
 ├── recipes.html                    # Recipe directory & instruction cards
 ├── styles.css                      # Global custom stylesheet
 └── tips.html                       # Culinary tips & video section
+
+```
+---
+
+# Screenshots
+Home Page: 
+Recipe Page: 
+Cooking Tips Page:
+Contact Page: -
