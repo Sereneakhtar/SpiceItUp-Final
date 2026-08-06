@@ -16,14 +16,14 @@ A responsive multi-page website with clean and intuitive navigation. It has a fe
 ---
 
 # Pages
-* ** Home ('index.html'): ** Has an introduction, a highlight photo of a featured recipe and a quick referene photo, a directory table with cooking times and serving sizes, and a preview of essential cooking tools.
-* ** Recipes ('recipts.html'): ** A collection of easy-to-follow recipes. There is preparation time and cooking information. There is serving size details. 
-* ** Cooking Tips ('tips.html'): ** There are practical kitchen tips. An embedded video 
-* ** Contact ('contact.html'): ** 
+* ** Home ('index.html'): ** The Home page serves as the main entry point of the website and introduces users to Spice It Up. It provides a welcoming overview of the site's purpose while showcasing featured content to encourage exploration.
+* ** Recipes ('recipts.html'): ** The Recipes page is the core of the website, providing users with a collection of simple, beginner-friendly meals. Each recipe is presented in an organized and visually appealing format to make cooking easy to follow.
+* ** Cooking Tips ('tips.html'): ** The Cooking Tips page helps users build confidence in the kitchen by providing practical advice and instructional content. It complements the recipes by teaching basic techniques that improve everyday cooking skills. 
+* ** Contact ('contact.html'): ** The Contact page allows visitors to communicate with the website owner by submitting questions, comments, or feedback. It demonstrates the implementation of HTML forms while providing a professional way for users to interact with the site.
 
 ---
 
-## ⚙️ Tech Stack & Integration
+## Tech Stack & Integration
 
 * **Frontend HTML5:** Semantic tags used throughout (`<header>`, `<nav>`, `<main>`, `<section>`, `<video>`, `<table>`, `<footer>`) for structural clarity.
 * **Custom CSS3 (`styles.css`):** Built with a responsive Flexbox layout featuring a warm, earthy palette (Crimson deep reds, Terracotta oranges, and soft cream backgrounds) with smooth image styling and modern card designs.
@@ -66,8 +66,12 @@ COOKING-WEBSITE/
 ```
 ---
 
-# Screenshots
-Home Page: 
-Recipe Page: 
-Cooking Tips Page:
-Contact Page: -
+## Screenshots
+1. Home Page:
+2. Recipe Page:
+3. Cooking Tips Page:
+4. Contact Page: 
+
+---
+
+# What I Learned
