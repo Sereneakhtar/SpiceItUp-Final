@@ -68,10 +68,19 @@ COOKING-WEBSITE/
 
 ## Screenshots
 1. Home Page:
+<img width="1617" height="906" alt="image" src="https://github.com/user-attachments/assets/ea61f0db-238e-4dad-9429-ad2d18bbccf8" />
+
 2. Recipe Page:
+<img width="1892" height="560" alt="image" src="https://github.com/user-attachments/assets/87450b1c-78a5-4d6b-b168-4dcb8bc08636" />
+<img width="1592" height="912" alt="image" src="https://github.com/user-attachments/assets/fd1788e4-89b3-4214-bf04-c3816639ec66" />
+
 3. Cooking Tips Page:
+<img width="1797" height="892" alt="image" src="https://github.com/user-attachments/assets/7b87ad0f-0983-4312-836d-7304e2c42bb7" />
+
 4. Contact Page: 
+<img width="1190" height="590" alt="image" src="https://github.com/user-attachments/assets/0e4bebb3-17dd-4334-982c-e7531a5f08de" />
 
 ---
 
 # What I Learned
+What I learned from this project is that I was able to implement my skills using HTML and CSS to create this. I also learned how to add a live server to see who is viewing the page live. 
